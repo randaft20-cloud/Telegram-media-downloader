@@ -24,7 +24,7 @@ A privacy-focused desktop app to bulk download media from your Telegram channels
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/telegram-media-downloader.git
+git clone https://github.com/randaft20-cloud/telegram-media-downloader.git
 cd telegram-media-downloader
 pip install -r requirements.txt
 python main.py
