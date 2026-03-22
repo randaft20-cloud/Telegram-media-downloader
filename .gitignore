@@ -1,0 +1,30 @@
+# Telegram session files — never upload these
+*.session
+*.session-journal
+
+# Sync and history data
+sync_state.json
+download_history.json
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Downloaded media — never upload
+downloads/
